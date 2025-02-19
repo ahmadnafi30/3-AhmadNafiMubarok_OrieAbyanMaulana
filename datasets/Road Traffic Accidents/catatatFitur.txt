@@ -1,0 +1,17 @@
+Time                    : Waktu pada saat kecelakaan terjadi (dengan format jam:menit:detik).
+Day_of_week             : Hari terjadinya kecelakaan.
+Age_band_of_driver      : Rentang usia pengemudi.
+Sex_of_driver           : Jenis kelamin pengemudi.
+Educational_level       : Pendidikan terakhir pengemudi.
+Vehicle_driver_relation : Status pengemudi terhadap kendaraan (misalnya, Employee, Owner). 
+Driving_experience      : Lamanya pengalaman mengemudi (dalam rentang tahun).
+Type_of_vehicle         : Jenis kendaraan yang digunakan.
+Owner_of_vehicle        : Status kepemilikan kendaraan.
+Service_year_of_vehicle : Tahun terakhir servis kendaraan.
+Defect_of_vehicle       : Kondisi kendaraan (misalnya, baik, rusak, dll). 
+Area_accident_occured   : Area di mana terjadinya kecelakaan (misalnya, industrial area, residential area, dll).
+Lanes_or_medians        : Jenis jalur saat terjadinya kecelakaan (misalnya, one way, two way, dll).
+Road_allignment         : Kondisi jalan pada saat terjadinya kecelakaan.
+Types_of_junction       : Jenis persimpangan saat terjadinya kecelakaan.
+Road_surface_type       : Jenis permukaan jalan saat terjadinya kecelakaan.
+Road_surface_condition  : Kondisi permukaan jalan saat terjadinya kecelakaan.
