@@ -15,3 +15,18 @@ Road_allignment         : Kondisi jalan pada saat terjadinya kecelakaan.
 Types_of_junction       : Jenis persimpangan saat terjadinya kecelakaan.
 Road_surface_type       : Jenis permukaan jalan saat terjadinya kecelakaan.
 Road_surface_condition  : Kondisi permukaan jalan saat terjadinya kecelakaan.
+Light_conditions        : Kondisi tingkat pencahayaan.
+Weather_conditions      : Kondisi cuaca. 
+Type_of_collision       : Jenis tabrakan (misalnya Rollover, Fall from vehicle, collision with animals).
+Number_of_vehicle       : Jumlah kendaraan yang terlibat dalam kecelakaan.
+Number_of_casualties    : Jumlah korban dalam kecelakaan. 
+Vehicle_movement        : Gerakan tepat sebelum kecelakaan kendaraan.
+Casualty_class          : klasifikasi korban (misalnya , driver or rider, pederstrian)
+Sex_of_casuality        : Jenis kelamin korban 
+Age_band_of_casuality   : Rentang usia korban.
+Casualty_severity       : Tingkat keprahan korban. 
+Work_of_casuality       : Status kerja dari korban. 
+Fitness_of_casuality    : Kondisi kesehatan dari korban (misalnya, buta, normal). *
+Pedestrian_movement     : Apakah ada penjalan kaki atau tidak, kalaupun ada gerakan pejalan kakinya itu gimana?. 
+Cause_of_accident       : Penyebab kecelakanan. 
+Accident_severity       : Tingkat keperahan dari sebuah kecelakaan. 
